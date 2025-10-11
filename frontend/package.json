@@ -1,5 +1,7 @@
 {
   "name": "frontend",
+  "homepage": "https://luct-reporting-ijvkkgika-lebitsaamohelang27-hues-projects.vercel.app",
+
   "version": "0.1.0",
   "private": true,
   "dependencies": {
